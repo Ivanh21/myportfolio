@@ -9686,3 +9686,9 @@ textarea.form-control {
 
       }
     }
+
+  .img-item{
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+  }
