@@ -9692,3 +9692,10 @@ textarea.form-control {
     justify-content: space-evenly;
     justify-items: center;
   }
+
+  @media (max-width: 1024px){
+    .img-item{
+      display: flex;
+      flex-direction: column;
+    }
+  }
